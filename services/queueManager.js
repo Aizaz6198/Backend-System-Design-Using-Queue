@@ -1,4 +1,3 @@
-// services/queueManager.js
 const amqp = require('amqplib');
 
 class QueueManager {
