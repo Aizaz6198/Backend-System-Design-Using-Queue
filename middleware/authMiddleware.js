@@ -1,4 +1,3 @@
-// middleware/authMiddleware.js
 const jwt = require('jwt-simple');
 const secret = process.env.JWT_SECRET;
 
