@@ -1,4 +1,3 @@
-// services/requestWorker.js
 const QueueManager = require('./queueManager');
 
 class RequestWorker {
