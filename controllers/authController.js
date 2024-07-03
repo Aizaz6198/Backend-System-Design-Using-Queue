@@ -1,4 +1,3 @@
-// controllers/authController.js
 const jwt = require('jwt-simple');
 const User = require('../models/User');
 const secret = process.env.JWT_SECRET;
